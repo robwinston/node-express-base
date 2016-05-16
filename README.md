@@ -1,2 +1,2 @@
 # node-express-base
-Canonical node.js / express project
+Skeletal node.js / express project
